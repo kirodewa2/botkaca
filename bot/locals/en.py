@@ -2,7 +2,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code> \n\nGet new password from @Kirodewal',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Torrentitbot</b>!\nPowered by pyrogram.\n\nMore Bots: <a href='https://t.me/HXBots'>T.me/HXBots'</a> \nFor Latest Movies Subscribe: <a href='https://t.me/HindiXstream'>HindiXstream'</a>",
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Torrentitbot</b>!\nPowered by pyrogram.\n\nMore Bots: <a href='https://t.me/HXBots'>T.me/HXBots'</a> \n\nFor Latest Movies Subscribe: <a href='https://t.me/HindiXstream'>HindiXstream'</a>\n\nGet password from @Kirodewal to use this bot",
     'PASS_REQUIRED' : '\n\nUse /pass [code] </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
